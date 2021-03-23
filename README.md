@@ -2,7 +2,20 @@
 
 I'm Harun.
 
-- 🔭 I’m currently working on .NET Platform
+- 🔭 I’m currently working on [CarRental Project](https://github.com/harunagca/CarRental)
+
+Some of my projects are:
+
+-[TaskOrganizer](https://github.com/harunagca/task-organizer)
+
+-[Telemetry](https://github.com/harunagca/Telemetry)
+
+-[E-Commerce](https://github.com/harunagca/ECommerce)
+
+-[Freelance](https://github.com/harunagca/Freelance)
+
+-[Yurt Otomasyonu](https://github.com/harunagca/YurtOtomasyonu)
+
 
 <!--
 **HarunAGCA/harunagca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
