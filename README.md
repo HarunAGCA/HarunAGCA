@@ -6,8 +6,6 @@ I'm Harun.
 
 Some of my projects are:
 
--[TaskOrganizer](https://github.com/harunagca/task-organizer)
-
 -[Telemetry](https://github.com/harunagca/Telemetry)
 
 -[E-Commerce](https://github.com/harunagca/ECommerce)
